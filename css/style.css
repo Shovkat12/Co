@@ -1,0 +1,33 @@
+
+.main-card-title{
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 26px;
+    margin-bottom: 25px;
+}
+.main-card-body{
+    margin-top: 25px;
+    margin-left: 2rem;
+    margin-bottom: 30px;
+}
+.main-card-text{
+   color: black;
+   font-weight: 700;
+}
+span{
+    color: black;
+    font-weight: 400;
+}
+.card{
+    width: 18rem;
+}
+.card{
+    margin: auto;
+}
+
+
+    
+
+
